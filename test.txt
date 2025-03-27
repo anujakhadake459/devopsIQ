@@ -2,4 +2,4 @@ test file
 adding new line
 adding another line on 2
 adding line 3
-new 
+new line here 
